@@ -1,7 +1,7 @@
 {
-  "name": "node-docker-demo",
+  "name": "movie-booking-app",
   "version": "1.0.0",
-  "description": "Simple Node.js app for Docker practice",
+  "description": "Simple Movie Ticket Booking Website",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
